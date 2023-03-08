@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website <br/>
   <a href="https://renny-portfolio.herokuapp.com/" target="_blank"> Renny Muragu </a>
 </h2>
 
