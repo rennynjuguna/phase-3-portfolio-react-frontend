@@ -8,8 +8,6 @@
 
 ## Built With
 
-My portfolio <a href="https://renny-portfolio.herokuapp.com/" target="_blank">soumyajit.tech</a> which features some of my projects as well as my technical skills.<br/>
-
 This project was built using these technologies.
 
 - React.js
